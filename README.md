@@ -1,5 +1,7 @@
 # Dev Duck
 
+![duck](https://github.com/macl-spindance/devduck/blob/main/hardware/duck.jpg?raw=true)
+
 It's a duck. It connects to AWS. It lights up on command for 10 seconds. 
 
 You can make a reuest to a URL from anywhere that will trigger the duck to light up
@@ -10,7 +12,7 @@ These are incomplete instructions.
 
 ## Hardware
 
-Check out the circuit diagram and other images in the hardware directory. 
+Check out the circuit diagram and other images in the `hardware` directory. 
 
 ## Software
 
